@@ -1,2 +1,2 @@
 # onlinedirectory
-this is use to create an online directory where user can ubmit their website
+This is use to create an online directory where user can submit their website
